@@ -85,13 +85,13 @@ Si une version s’affiche dans le terminal, le compilateur est correctement ins
 Ouvrir un **terminal** dans le dossier du projet puis exécuter :
 
 ```bash
-run jeux
+run jeux_de_nim
 ```
 
 Le script va :
 
-1. compiler `jeux.c`
-2. créer `jeux.exe`
+1. compiler `jeux_de_nim.c`
+2. créer `jeux_de_nim.exe`
 3. lancer le jeu
 
 ---
